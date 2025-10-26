@@ -19,9 +19,8 @@
 
 ## Part 3: AI Knowledge Hub with Notebook LM
 
-4. [สร้าง AI Knowledge Hub ด้วย Notebook LM](exercises/ai-knowledge-hub-with-notebook-lm/ai-knowledge-hub-with-notebook-lm.md)
-5. [ติดตามและช่วยดำเนินโครงการ](exercises/ai-project-tracking-with-notebook-lm/ai-project-tracking-with-notebook-lm.md)
-6. [เตรียมจัดทำคู่มือภายใน](exercises/ai-internal-guidelines/ai-internal-guidelines.md)
+1. [สร้าง AI Knowledge Hub ด้วย Notebook LM](exercises/ai-knowledge-hub-with-notebook-lm/ai-knowledge-hub-with-notebook-lm.md)
+2. [ติดตามและช่วยดำเนินโครงการ](exercises/ai-project-tracking-with-notebook-lm/ai-project-tracking-with-notebook-lm.md)
 
 ## Part 4: Using AI with boring task
 

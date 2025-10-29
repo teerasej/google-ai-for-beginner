@@ -1,8 +1,9 @@
 
 # Google AI Exploration for Beginner
 
-1. [ไฟล์เอกสารนำเสนอ](...)
-2. [ดาวน์โหลดไฟล์สำหรับใช้ในเวิร์คชอป (zip file)](https://nextflowth-my.sharepoint.com/:u:/g/personal/teerasej_nextflowth_onmicrosoft_com/EeQ3u_w1WB5Ep9ZoVUQUNWEBqCteea4_keCMOll7UWAQhw?e=bswOE1)
+1. [แนะนำตัวกันหน่อย](https://app.sli.do/event/h9R9HZxUWT6xLC8z4gGHiz)
+2. [ไฟล์เอกสารนำเสนอ](https://nextflowth-my.sharepoint.com/:b:/g/personal/teerasej_nextflowth_onmicrosoft_com/EWNF1uWoiRNPiOsfTYIhqCoBpL-xpQnKoxlWdp6T2CO5tg?e=6ktqz1)
+3. [ดาวน์โหลดไฟล์สำหรับใช้ในเวิร์คชอป (zip file)](https://drive.google.com/drive/folders/1TwnQlfWuv8y2Cvmz-TsCAxakHTgpbHnk?usp=sharing)
 
 
 ## Part 1: The boring task

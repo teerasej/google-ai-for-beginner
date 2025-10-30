@@ -17,6 +17,7 @@
 3. [รูปภาพและ Google Gemini](exercises/google-gemini-image/google-gemini-image.md)   
 4. [Google Gemini กับการสร้าง presentation](exercises/google-gemini-presentation/google-gemini-presentation.md)
 5. [Google Gemini การวิเคราะห์ข้อมูลจาก Spreadsheet](exercises/google-gemini-data-analysis/google-gemini-data-analysis.md)
+6. [Google AI Mode](exercises/google-ai-mode/google-ai-mode.md)
 
 ## Part 3: AI Knowledge Hub with Notebook LM
 
